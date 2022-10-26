@@ -166,4 +166,5 @@ urlreq = requests.get('https://www.hse.ru/news/edu/page' + str(hse_news_page_num
 ## Итог
 
 Вроде все рассказал, если есть вопросы - пишите в телеграме @WhiteShape
+
 Ссылка на бота - https://t.me/zuevgordeybot
