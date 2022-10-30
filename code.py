@@ -11,7 +11,7 @@ from pyowm.utils import timestamps
 
 from telebot import *
 from telebot import types
-bot = TeleBot('5439686409:AAE48mBLZ_vimVPpT6nj-uWvArWmcdZD_tE')
+bot = TeleBot('')
 
 owm = OWM('10e402c478e9f587f10e92d183285590')
 mgr = owm.weather_manager()
