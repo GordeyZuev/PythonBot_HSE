@@ -13,7 +13,7 @@ from telebot import *
 from telebot import types
 bot = TeleBot('')
 
-owm = OWM('10e402c478e9f587f10e92d183285590')
+owm = OWM('')
 mgr = owm.weather_manager()
 
 
